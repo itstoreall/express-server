@@ -1,0 +1,27 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "Express-server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itstoreall/express-server.git"
+  },
+  "keywords": [],
+  "author": "Serhii Stanislav <serhiistanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itstoreall/express-server/issues"
+  },
+  "homepage": "https://github.com/itstoreall/express-server#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.7"
+  }
+}
